@@ -29,21 +29,25 @@
   border-radius: 5px solid black;
   width: 50px;
   font-size: 30px;
+  cursor: pointer;
 }
 .minus{
   text-align: center;
   border-radius: 5px solid black;
   width: 50px;
   font-size: 30px;
+  cursor: pointer;
 }
 .counter{
   font-weight: bold;
   font-size: 35px;
-  border-right: 5px
+  border-right: 5px;
+  
 }
 .reset{
   background-color: #0398d4;
   color: white;
   padding: 10px;
   border-radius: 5px solid rgb(0, 0, 0);
+  cursor: pointer;
 }
